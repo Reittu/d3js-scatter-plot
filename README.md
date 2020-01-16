@@ -1,2 +1,8 @@
-# d3js-scatter-plot
- Data Visualization project using D3.js library (v5). FCC
+# D3.js Scatter Plot
+
+## Live demo
+
+[Demo](https://blpyq.csb.app/)
+
+[Editor](https://codesandbox.io/s/d3js-scatter-plot-blpyq?fontsize=14&hidenavigation=1&theme=dark)
+
